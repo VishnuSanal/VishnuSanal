@@ -23,5 +23,5 @@
 <br>
 
 <p align="center">
-<a href="https://stackoverflow.com/users/9652621" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9652621" height="30" width="30" /></a> <a href="https://play.google.com/store/apps/developer?id=Vishnu+Sanal.+T" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleplay.svg" alt="9652621" height="30" width="30" /></a> <a href="https://www.linkedin.com/vishnu-sanal-t" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="9652621" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/9652621" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9652621" height="30" width="30" /></a> <a href="https://play.google.com/store/apps/dev?id=5733306165707047154" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleplay.svg" alt="9652621" height="30" width="30" /></a> <a href="https://www.linkedin.com/vishnu-sanal-t" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="9652621" height="30" width="30" /></a>
 </p>
