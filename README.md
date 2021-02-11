@@ -7,7 +7,7 @@
 
  - 🚀Developer & Maintainer of Quotes Status Creator App
       - An app where users can Share Famous Quotations as Status without any hassles of Image Editing
-      - Find it here - https://tinyurl.com/QtsApp
+      - Find it here - https://play.google.com/store/apps/details?id=phone.vishnu.quotes
       
 - 📃Developer Page
       - https://play.google.com/store/apps/dev?id=5733306165707047154
