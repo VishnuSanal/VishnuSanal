@@ -12,7 +12,7 @@
 - 📃Developer Page
       - https://play.google.com/store/apps/dev?id=5733306165707047154
 
-- 📝I write articles then and now on [https://vishnusmiscellany.blogspot.com/](https://vishnusmiscellany.blogspot.com/)
+- 📝I write articles then and now [here](https://dev.to/vishnusanal) :D
 
 <!--- <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></p> --->
 
