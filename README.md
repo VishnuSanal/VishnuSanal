@@ -1,18 +1,16 @@
 <h1 align="center">Hello!</h1>
-<h3 align="center">I'm glad to see that you are interested to know more about me 😊</h3>
+<h3 align="center">I'm glad to see that you are interested to know more about me :)</h3>
 
 <p align="center">I'm an Android Developer & I strive to develop ☺User Friendly, 📱Easy to Use & ⚙Highly Functional Free & Open Source👨‍💻 Android Apps</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnusanal" alt="vishnusanal" /> </p>
 
- - 🚀Developer & Maintainer of Quotes Status Creator App
-      - An app where users can Share Famous Quotations as Status without any hassles of Image Editing
-      - Find it here - https://play.google.com/store/apps/details?id=phone.vishnu.quotes
+ - 🚀Developer & Maintainer of the [Quotes Status Creator App](https://play.google.com/store/apps/details?id=phone.vishnu.quotes)
+      - An app where users can Share Quotations as Status without any hassles of Image Editing
       
-- 📃Developer Page
-      - https://play.google.com/store/apps/dev?id=5733306165707047154
+- 📃[Developer Page](https://play.google.com/store/apps/dev?id=5733306165707047154)
 
-- 📝I write articles then and now [here](https://dev.to/vishnusanal) :D
+- 📝I write articles [here](https://dev.to/vishnusanal) not-so-often :D
 
 <!--- <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></p> --->
 
