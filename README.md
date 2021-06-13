@@ -3,8 +3,6 @@
 
 <p align="center">I'm an Android Developer & I strive to develop ☺User Friendly, 📱Easy to Use & ⚙Highly Functional Free & Open Source👨‍💻 Android Apps</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnusanal" alt="vishnusanal" /> </p>
-
  - 🚀Developer & Maintainer of the [Quotes Status Creator App](https://play.google.com/store/apps/details?id=phone.vishnu.quotes)
       - An app where users can Share Quotations as Status without any hassles of Image Editing
       
