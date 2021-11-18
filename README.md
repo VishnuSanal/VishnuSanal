@@ -6,8 +6,8 @@
 
 <p align="center">
 <a href="https://github.com/VishnuSanal">
- <img height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VishnuSanal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VishnuSanal&layout=compact&langs_count=8&theme=tokyonight"/>
+ <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VishnuSanal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VishnuSanal&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
 
