@@ -26,5 +26,7 @@
 <a href="https://gitlab.com/VishnuSanal"><img src="https://img.shields.io/badge/-GitLab-F48024?style=flat&logo=GitLab&logoColor=white"/></a>
 <!-- DevTo -->
 <a href="https://dev.to/vishnusanal"><img src="https://img.shields.io/badge/-Dev%20To-black?style=flat&logo=DevDotTo&logoColor=white"/></a>
+<!-- Telegram -->
+<a href="https://t.me/VishnuSanalT"><img src="https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white"/></a>
  
 </p>
