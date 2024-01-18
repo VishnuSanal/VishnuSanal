@@ -15,7 +15,7 @@
 
 <p align="center">
 <!-- GMail -->
-<a href="https://play.google.com/store/apps/dev?id=5733306165707047154"><img src="https://img.shields.io/badge/-Mail-EA4335?style=flat&logo=GMail&logoColor=white"/></a>
+<a href="mailto:t.v.s10123@gmail.com"><img src="https://img.shields.io/badge/-Mail-EA4335?style=flat&logo=GMail&logoColor=white"/></a>
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/vishnu-sanal-t"><img src="https://img.shields.io/badge/-LinkedIn-006192?style=flat&logo=Linkedin&logoColor=white"/></a>
 <!-- StackOverflow -->
