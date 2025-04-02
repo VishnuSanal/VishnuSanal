@@ -30,3 +30,7 @@
 <a href="https://t.me/VishnuSanalT"><img src="https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white"/></a>
  
 </p>
+
+<p>
+PS: I'm a student & looking for an internship. If you (or anyone you know) is hiring, please hit me up! :)
+</p>
