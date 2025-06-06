@@ -31,6 +31,7 @@
  
 </p>
 
-<p>
+<!-- <p>
 PS: I'm a student & looking for an internship. If you (or anyone you know) is hiring, please hit me up! :)
 </p>
+-->
